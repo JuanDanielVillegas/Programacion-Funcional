@@ -1,0 +1,731 @@
+[
+    {
+        "id": "a1",
+        "descripcion": "Apio",
+        "precio": 8,
+        "clasificacion": "verduras",
+        "cant_existencia": 30,
+        "e_min": 10,
+        "e_max": 50
+    },
+    {
+        "id": "a2",
+        "descripcion": "Chicle",
+        "precio": 2,
+        "clasificacion": "dulces",
+        "cant_existencia": 20,
+        "e_min": 10,
+        "e_max": 60
+    },
+    {
+        "id": "a3",
+        "descripcion": "Manzana",
+        "precio": 8,
+        "clasificacion": "frutas",
+        "cant_existencia": 20,
+        "e_min": 10,
+        "e_max": 21
+    },
+    {
+        "id": "a4",
+        "descripcion": "Papel",
+        "precio": 21,
+        "clasificacion": "higiene",
+        "cant_existencia": 21,
+        "e_min": 22,
+        "e_max": 30
+    },
+    {
+        "id": "a5",
+        "descripcion": "Plantano",
+        "precio": 10,
+        "clasificacion": "frutas",
+        "cant_existencia": 5,
+        "e_min": 5,
+        "e_max": 15
+    },
+    {
+        "id": "a6",
+        "descripcion": "Rabanos",
+        "precio": 8,
+        "clasificacion": "verduras",
+        "cant_existencia": 9,
+        "e_min": 7,
+        "e_max": 20
+    },
+    {
+        "id": "a7",
+        "descripcion": "Pasta dental",
+        "precio": 30,
+        "clasificacion": "higiene",
+        "cant_existencia": 10,
+        "e_min": 7,
+        "e_max": 20
+    },
+    {
+        "id": "a8",
+        "descripcion": "Paleta",
+        "precio": 9,
+        "clasificacion": "dulces",
+        "cant_existencia": 10,
+        "e_min": 5,
+        "e_max": 20
+    },
+    {
+        "id": "a9",
+        "descripcion": "Sandia",
+        "precio": 10,
+        "clasificacion": "frutas",
+        "cant_existencia": 5,
+        "e_min": 3,
+        "e_max": 7
+    },
+    {
+        "id": "a10",
+        "descripcion": "Cebolla",
+        "precio": 8,
+        "clasificacion": "verduras",
+        "cant_existencia": 17,
+        "e_min": 7,
+        "e_max": 100
+    },
+    {
+        "id": "a11",
+        "descripcion": "Gomitas",
+        "precio": 30,
+        "clasificacion": "dulces",
+        "cant_existencia": 40,
+        "e_min": 7,
+        "e_max": 60
+    },
+    {
+        "id": "a12",
+        "descripcion": "coca-cola",
+        "precio": 10,
+        "clasificacion": "refrescos",
+        "cant_existencia": 58,
+        "e_min": 12,
+        "e_max": 95
+    },
+    {
+        "id": "a13",
+        "descripcion": "Pepsi",
+        "precio": 11,
+        "clasificacion": "refrescos",
+        "cant_existencia": 8,
+        "e_min": 11,
+        "e_max": 20
+    },
+    {
+        "id": "a14",
+        "descripcion": "Chile",
+        "precio": 17,
+        "clasificacion": "verduras",
+        "cant_existencia": 8,
+        "e_min": 2,
+        "e_max": 30
+    },
+    {
+        "id": "a15",
+        "descripcion": "Mango",
+        "precio": 58,
+        "clasificacion": "frutas",
+        "cant_existencia": 65,
+        "e_min": 2,
+        "e_max": 89
+    },
+    {
+        "id": "a16",
+        "descripcion": "Hilo dental",
+        "precio": 61,
+        "clasificacion": "higiene",
+        "cant_existencia": 36,
+        "e_min": 2,
+        "e_max": 120
+    },
+    {
+        "id": "a17",
+        "descripcion": "Manzanita",
+        "precio": 12,
+        "clasificacion": "refrescos",
+        "cant_existencia": 40,
+        "e_min": 6,
+        "e_max": 70
+    },
+    {
+        "id": "a18",
+        "descripcion": "Mirinda",
+        "precio": 9,
+        "clasificacion": "refrescos",
+        "cant_existencia": 32,
+        "e_min": 6,
+        "e_max": 40
+    },
+    {
+        "id": "a19",
+        "descripcion": "Manzana",
+        "precio": 9,
+        "clasificacion": "jugos",
+        "cant_existencia": 3,
+        "e_min": 1,
+        "e_max": 7
+    },
+    {
+        "id": "a20",
+        "descripcion": "Trapeador",
+        "precio": 42,
+        "clasificacion": "limpieza",
+        "cant_existencia": 10,
+        "e_min": 4,
+        "e_max": 19
+    },
+    {
+        "id": "a21",
+        "descripcion": "Desodorante",
+        "precio": 73,
+        "clasificacion": "higiene",
+        "cant_existencia": 11,
+        "e_min": 10,
+        "e_max": 121
+    },
+    {
+        "id": "a22",
+        "descripcion": "Escoba",
+        "precio": 67,
+        "clasificacion": "limpieza",
+        "cant_existencia": 9,
+        "e_min": 6,
+        "e_max": 16
+    },
+    {
+        "id": "a23",
+        "descripcion": "Naranja",
+        "precio": 354,
+        "clasificacion": "jugos",
+        "cant_existencia": 9,
+        "e_min": 3,
+        "e_max": 18
+    },
+    {
+        "id": "a24",
+        "descripcion": "Naranja",
+        "precio": 6,
+        "clasificacion": "frutas",
+        "cant_existencia": 2,
+        "e_min": 1,
+        "e_max": 29
+    },
+    {
+        "id": "a25",
+        "descripcion": "Trapos",
+        "precio": 20,
+        "clasificacion": "limpieza",
+        "cant_existencia": 3,
+        "e_min": 2,
+        "e_max": 12
+    },
+    {
+        "id": "a26",
+        "descripcion": "Cheetos",
+        "precio": 15,
+        "clasificacion": "frituras",
+        "cant_existencia": 24,
+        "e_min": 11,
+        "e_max": 45
+    },
+    {
+        "id": "a27",
+        "descripcion": "Limonada",
+        "precio": 15,
+        "clasificacion": "jugos",
+        "cant_existencia": 5,
+        "e_min": 3,
+        "e_max": 18
+    },
+    {
+        "id": "a28",
+        "descripcion": "Doritos",
+        "precio": 50,
+        "clasificacion": "frituras",
+        "cant_existencia": 12,
+        "e_min": 10,
+        "e_max": 20
+    },
+    {
+        "id": "a29",
+        "descripcion": "Piña",
+        "precio": 15,
+        "clasificacion": "jugos",
+        "cant_existencia": 15,
+        "e_min": 4,
+        "e_max": 56
+    },
+    {
+        "id": "a30",
+        "descripcion": "Limon",
+        "precio": 49,
+        "clasificacion": "verduras",
+        "cant_existencia": 36,
+        "e_min": 12,
+        "e_max": 38
+    },
+    {
+        "id": "a31",
+        "descripcion": "Papa",
+        "precio": 52,
+        "clasificacion": "verduras",
+        "cant_existencia": 29,
+        "e_min": 2,
+        "e_max": 90
+    },
+    {
+        "id": "a32",
+        "descripcion": "Melon",
+        "precio": 122,
+        "clasificacion": "frutas",
+        "cant_existencia": 9,
+        "e_min": 3,
+        "e_max": 37
+    },
+    {
+        "id": "a33",
+        "descripcion": "Uva",
+        "precio": 79,
+        "clasificacion": "frutas",
+        "cant_existencia": 29,
+        "e_min": 3,
+        "e_max": 31
+    },
+    {
+        "id": "a34",
+        "descripcion": "Crema",
+        "precio": 53,
+        "clasificacion": "higiene",
+        "cant_existencia": 5,
+        "e_min": 4,
+        "e_max": 13
+    },
+    {
+        "id": "a35",
+        "descripcion": "Cereza",
+        "precio": 53,
+        "clasificacion": "frutas",
+        "cant_existencia": 11,
+        "e_min": 7,
+        "e_max": 13
+    },
+    {
+        "id": "a36",
+        "descripcion": "Durazno",
+        "precio": 69,
+        "clasificacion": "frutas",
+        "cant_existencia": 18,
+        "e_min": 4,
+        "e_max": 21
+    },
+    {
+        "id": "a37",
+        "descripcion": "Recogedor",
+        "precio": 74,
+        "clasificacion": "limpieza",
+        "cant_existencia": 18,
+        "e_min": 4,
+        "e_max": 19
+    },
+    {
+        "id": "a38",
+        "descripcion": "mazapan",
+        "precio": 7,
+        "clasificacion": "dulces",
+        "cant_existencia": 11,
+        "e_min": 6,
+        "e_max": 39
+    },
+    {
+        "id": "a39",
+        "descripcion": "Bubulubu",
+        "precio": 7,
+        "clasificacion": "dulces",
+        "cant_existencia": 3,
+        "e_min": 3,
+        "e_max": 14
+    },
+    {
+        "id": "a40",
+        "descripcion": "Ajax",
+        "precio": 50,
+        "clasificacion": "limpieza",
+        "cant_existencia": 5,
+        "e_min": 1,
+        "e_max": 11
+    },
+    {
+        "id": "a41",
+        "descripcion": "Cloralex",
+        "precio": 8,
+        "clasificacion": "limpieza",
+        "cant_existencia": 34,
+        "e_min": 12,
+        "e_max": 68
+    },
+    {
+        "id": "a42",
+        "descripcion": "Clinex",
+        "precio": 43,
+        "clasificacion": "higiene",
+        "cant_existencia": 11,
+        "e_min": 6,
+        "e_max": 30
+    },
+    {
+        "id": "a43",
+        "descripcion": "Frambuesa",
+        "precio": 73,
+        "clasificacion": "frutas",
+        "cant_existencia": 6,
+        "e_min": 3,
+        "e_max": 36
+    },
+    {
+        "id": "a44",
+        "descripcion": "Tomate",
+        "precio": 67,
+        "clasificacion": "verduras",
+        "cant_existencia": 46,
+        "e_min": 20,
+        "e_max": 50
+    },
+    {
+        "id": "a45",
+        "descripcion": "Cachitos",
+        "precio": 2,
+        "clasificacion": "dulces",
+        "cant_existencia": 63,
+        "e_min": 10,
+        "e_max": 112
+    },
+    {
+        "id": "a46",
+        "descripcion": "Nuez",
+        "precio": 90,
+        "clasificacion": "frutos secos",
+        "cant_existencia": 90,
+        "e_min": 38,
+        "e_max": 100
+    },
+    {
+        "id": "a47",
+        "descripcion": "Cacahuate",
+        "precio": 72,
+        "clasificacion": "frutos secos",
+        "cant_existencia": 120,
+        "e_min": 38,
+        "e_max": 130
+    },
+    {
+        "id": "a48",
+        "descripcion": "Pinol",
+        "precio": 89,
+        "clasificacion": "limpieza",
+        "cant_existencia": 16,
+        "e_min": 2,
+        "e_max": 21
+    },
+    {
+        "id": "a49",
+        "descripcion": "Pistache",
+        "precio": 98,
+        "clasificacion": "frutos secos",
+        "cant_existencia": 130,
+        "e_min": 3,
+        "e_max": 180
+    },
+    {
+        "id": "a50",
+        "descripcion": "Detergente",
+        "precio": 9,
+        "clasificacion": "limpieza",
+        "cant_existencia": 11,
+        "e_min": 8,
+        "e_max": 23
+    },
+    {
+        "id": "a51",
+        "descripcion": "Fabuloso",
+        "precio": 15,
+        "clasificacion": "limpieza",
+        "cant_existencia": 13,
+        "e_min": 4,
+        "e_max": 20
+    },
+    {
+        "id": "a52",
+        "descripcion": "Pasa",
+        "precio": 75,
+        "clasificacion": "frutos secos",
+        "cant_existencia": 19,
+        "e_min": 3,
+        "e_max": 20
+    },
+    {
+        "id": "a53",
+        "descripcion": "Marranito",
+        "precio": 10,
+        "clasificacion": "pan",
+        "cant_existencia": 10,
+        "e_min": 3,
+        "e_max": 11
+    },
+    {
+        "id": "a54",
+        "descripcion": "Dona",
+        "precio": 5,
+        "clasificacion": "pan",
+        "cant_existencia": 2,
+        "e_min": 1,
+        "e_max": 12
+    },
+    {
+        "id": "a55",
+        "descripcion": "Bolillo",
+        "precio": 2,
+        "clasificacion": "pan",
+        "cant_existencia": 21,
+        "e_min": 12,
+        "e_max": 22
+    },
+    {
+        "id": "a56",
+        "descripcion": "Blanco",
+        "precio": 6,
+        "clasificacion": "pan",
+        "cant_existencia": 8,
+        "e_min": 2,
+        "e_max": 28
+    },
+    {
+        "id": "a57",
+        "descripcion": "Tecate",
+        "precio": 151,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 6,
+        "e_min": 10,
+        "e_max": 72
+    },
+    {
+        "id": "a58",
+        "descripcion": "Indio",
+        "precio": 70,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 8,
+        "e_min": 13,
+        "e_max": 58
+    },
+    {
+        "id": "a59",
+        "descripcion": "Carta Blanca",
+        "precio": 97,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 51,
+        "e_min": 12,
+        "e_max": 85
+    },
+    {
+        "id": "a60",
+        "descripcion": "Whisky Etiqueta Roja Johnnie Walker - 700 ml ",
+        "precio": 359,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 3,
+        "e_min": 3,
+        "e_max": 12
+    },
+    {
+        "id": "a61",
+        "descripcion": "Whisky The Macallan Rare Cask 750 ml ",
+        "precio": 6000,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 1,
+        "e_min": 1,
+        "e_max": 2
+    },
+    {
+        "id": "a62",
+        "descripcion": "Whisky Buchanan'S 12 Años 750Ml ",
+        "precio": 834,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 16,
+        "e_min": 4,
+        "e_max": 16
+    },
+    {
+        "id": "a63",
+        "descripcion": "Tequila Don Julio 70 Añejo Cristalino 700 Ml",
+        "precio": 1000,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 7,
+        "e_min": 1,
+        "e_max": 7
+    },
+    {
+        "id": "a64",
+        "descripcion": "Tequila Casa Dragones Añejo 750ml ",
+        "precio": 2789,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 2,
+        "e_min": 4,
+        "e_max": 9
+    },
+    {
+        "id": "a65",
+        "descripcion": "Tequila Cosmos - Tequila Cristalino Extra Añejo - Botella de 750 ml",
+        "precio": 3900,
+        "clasificacion": "bebidas alcoholicas",
+        "cant_existencia": 2,
+        "e_min": 4,
+        "e_max": 12
+    },
+    {
+        "id": "a66",
+        "descripcion": "Servilletas",
+        "precio": 26,
+        "clasificacion": "limpieza",
+        "cant_existencia": 2,
+        "e_min": 5,
+        "e_max": 18
+    },
+    {
+        "id": "a67",
+        "descripcion": "Chile chilaca",
+        "precio": 8.80,
+        "clasificacion": "verduras",
+        "cant_existencia": 86,
+        "e_min": 2,
+        "e_max": 90
+    },
+    {
+        "id": "a68",
+        "descripcion": "pepino",
+        "precio": 9,
+        "clasificacion": "verduras",
+        "cant_existencia": 4,
+        "e_min": 3,
+        "e_max": 13
+    },
+    {
+        "id": "a69",
+        "descripcion": "Crema Lala",
+        "precio": 24,
+        "clasificacion": "lacteos",
+        "cant_existencia": 4,
+        "e_min": 1,
+        "e_max": 11
+    },
+    {
+        "id": "a70",
+        "descripcion": "Leche Lala",
+        "precio": 75,
+        "clasificacion": "lacteos",
+        "cant_existencia": 7,
+        "e_min": 3,
+        "e_max": 29
+    },
+    {
+        "id": "a71",
+        "descripcion": "Queso",
+        "precio": 47,
+        "clasificacion": "lacteos",
+        "cant_existencia": 7,
+        "e_min": 2,
+        "e_max": 14
+    },
+    {
+        "id": "a71",
+        "descripcion": "Leche Zaragoza",
+        "precio": 34,
+        "clasificacion": "lacteos",
+        "cant_existencia": 8,
+        "e_min": 6,
+        "e_max": 23
+    },
+    {
+        "id": "a72",
+        "descripcion": "Polvoron",
+        "precio": 12,
+        "clasificacion": "pan",
+        "cant_existencia": 7,
+        "e_min": 4,
+        "e_max": 8
+    },
+    {
+        "id": "a73",
+        "descripcion": "Cuernos",
+        "precio": 3,
+        "clasificacion": "pan",
+        "cant_existencia": 4,
+        "e_min": 4,
+        "e_max": 14
+    },
+    {
+        "id": "a74",
+        "descripcion": "Asadero",
+        "precio": 30,
+        "clasificacion": "lacteos",
+        "cant_existencia": 28,
+        "e_min": 5,
+        "e_max": 48
+    },
+    {
+        "id": "a75",
+        "descripcion": "Aguacate",
+        "precio": 90,
+        "clasificacion": "verduras",
+        "cant_existencia": 8,
+        "e_min": 2,
+        "e_max": 10
+    },
+    {
+        "id": "a76",
+        "descripcion": "Toronja",
+        "precio": 30,
+        "clasificacion": "jugos",
+        "cant_existencia": 4,
+        "e_min": 1,
+        "e_max": 10
+    },
+    {
+        "id": "a77",
+        "descripcion": "Dog Chow sin Colorantes con Extralife Adultos Medianos y Grandes 20kg",
+        "precio": 539,
+        "clasificacion": "mascotas",
+        "cant_existencia": 1,
+        "e_min": 1,
+        "e_max": 2
+    },
+    {
+        "id": "a78",
+        "descripcion": "WHISKAS",
+        "precio": 33,
+        "clasificacion": "mascotas",
+        "cant_existencia": 12,
+        "e_min": 5,
+        "e_max": 12
+    },
+    {
+        "id": "a79",
+        "descripcion": "Felix Megamix Croquetas para Gato Adulto",
+        "precio": 43,
+        "clasificacion": "mascotas",
+        "cant_existencia": 10,
+        "e_min": 3,
+        "e_max": 10
+    },
+    {
+        "id": "a80",
+        "descripcion": "Alimento P/Perro Hi Energy Apetito",
+        "precio": 16,
+        "clasificacion": "mascotas",
+        "cant_existencia": 4,
+        "e_min": 3,
+        "e_max": 20
+    }
+]
