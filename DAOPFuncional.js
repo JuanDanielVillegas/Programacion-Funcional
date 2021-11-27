@@ -133,14 +133,16 @@ getExistenciaMenor((resultado)=>{
     console.table(resultado[0]);
 },15);
 
+let SelecClasificacion = "bebidas alcoholicas";
+let precio = 15.50;
 console.log("");
 console.log("#3");
 getClasificacionPrecio((resultado)=>{
-    console.log("===================================================================");
-    console.log("Lista de productos con la misma clasificación y precio mayor 15.50");
-    console.log("===================================================================");
+    console.log("=========================================================================================");
+    console.log("Lista de productos con la misma clasificación ("+ SelecClasificacion +")"+  " y precio mayor a " + precio);
+    console.log("=========================================================================================");
     console.table(resultado);
-},15.50, "bebidas alcoholicas");
+},precio, SelecClasificacion);
 
 console.log("");
 console.log("#4");
